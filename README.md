@@ -71,10 +71,14 @@ By completing this assignment, you will:
 
 ---
 
+## 📂 Repository Structure
+
+```bash
 📦 Data-Structures-Assignment
- ┣ 📜 QUE.c
- ┣ 📜 QUE.c
- ┣ 📜 QUE.c
- ┣ 📜 ...
- ┣ 📜 DSA_ASSIGNMENT.pdf
- ┗ 📜 README.md
+ ┣ 📜 QUE_1.c            # Program 1
+ ┣ 📜 QUE_2.c            # Program 2
+ ┣ 📜 QUE_3.c            # Program 3
+ ┣ 📜 ...                # Other programs
+ ┣ 📜 DSA_ASSIGNMENT.pdf # Assignment with code & output
+ ┗ 📜 README.md          # Documentation
+
